@@ -1,0 +1,29 @@
+/* style.css */
+
+.title {
+    text-align: center;
+    font-family: "Courier, Arial, Helvetica, sans-serif";
+    color: white;
+    background-color: blue;
+}
+
+#lasagna,
+#dumpling,
+#pizza {
+    font-family: "Courier, Arial, Helvetica, sans-serif";
+    color: black;
+    font-size: 20px
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+p,
+* li {
+    font-family: "Courier, Arial, Helvetica, sans-serif";
+    color: blue;
+}
